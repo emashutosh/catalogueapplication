@@ -14,3 +14,6 @@ To use the [Live](http://catalogueapplication.ml/) version, you need to register
 ● When size is L then Dimensions are L: 10,H:7,W:12 (cms) and Weight:250gms\
 ● When size is XL then Dimensions are L: 12,H:9,W:13 (cms) and Weight:500gms\
 ● When size is XXL then Dimensions are L: 12,H:11,W:15 (cms) and Weight:750gms
+
+## Database schema
+![DB Schema](https://user-images.githubusercontent.com/53302951/144760631-0f2b0904-444d-4de7-a82f-e652a3bfeade.png)
