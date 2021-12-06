@@ -1,0 +1,40 @@
+h1,h2
+{
+    margin: 1px;
+}
+
+.head
+{
+    position: relative;
+    left: 50px;
+    top: 60px;
+    margin: 50px;
+}
+
+.fill
+{
+  
+  width: 80%;
+  background-color: rgb(195, 139, 247);
+  padding: 40px;
+  margin: auto;
+  border-radius: 20px;
+}
+.fill
+{
+  position: relative;
+  bottom: 8px;
+}
+
+.fill h2, p
+{
+  text-align: center;
+}
+
+input, textarea
+{
+  width: 100%;
+  margin: 7px;
+  padding: 4px;
+
+}
